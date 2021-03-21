@@ -1,5 +1,5 @@
 # PEA1
-Designing-effective-algorithms course at Wrocław University of Technology.
+Designing-effective-algorithms course at Wrocław University of Science and Technology.
 
 [Exact algorithms]
 
